@@ -1,3 +1,3 @@
 # Harshit-demo
 Git Repository
-Author - Harshit Kumar
+Author - Harshit Kumar (Demo)
